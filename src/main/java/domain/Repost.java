@@ -1,7 +1,7 @@
 package domain;
 
 public class Repost {
-    private Integer idAutor;
-    private Integer date;
-    private Integer number;
+    private int idAuthor;
+    private int quantity;
+
 }

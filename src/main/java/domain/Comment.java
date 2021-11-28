@@ -1,9 +1,9 @@
 package domain;
 
 public class Comment {
-    private Integer id;
-    private Integer from_id;
+    private int id;
+    private int idAuthor;
     private Integer date;
-    private Integer number;
+    private int quantity;
     private String text;
 }
